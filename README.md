@@ -1,0 +1,2 @@
+# typesciript
+just to learning
