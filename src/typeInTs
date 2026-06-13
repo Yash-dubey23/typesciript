@@ -1,0 +1,16 @@
+let drink ="Chai"
+let cups=Math.random()*0.5?10:5
+let channelName="TypeScript"
+
+let flavour:string="Vanilla"
+flavour="Chocolate"
+
+let order:boolean=true
+
+
+// Type Annotation: Explicitly specifying a type for a variable, parameter, or return value.
+
+// Type Inference: TypeScript automatically determines the type based on the assigned value.
+
+let country = "India"; // Inferred as string
+let course: string = "TypeScript"; // Annotation    
